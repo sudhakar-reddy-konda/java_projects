@@ -62,4 +62,10 @@ public interface User {
      */
     String getUserType();
     
+    /**
+     * 
+     * @return
+     */
+    boolean isBLocked();
+    
 }
