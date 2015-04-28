@@ -50,11 +50,6 @@ public interface User {
      */
     boolean setPassword(String newPass);
     
-    /**
-     * 
-     * @return
-     */
-    boolean isAdminUser();
-    
+  
   
 }
