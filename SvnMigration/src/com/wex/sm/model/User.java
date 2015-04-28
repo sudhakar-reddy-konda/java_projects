@@ -56,5 +56,10 @@ public interface User {
      */
     boolean isAdminUser();
     
-  
+    /**
+     * M
+     * @return
+     */
+    String getUserType();
+    
 }
