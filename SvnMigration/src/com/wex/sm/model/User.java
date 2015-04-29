@@ -69,7 +69,7 @@ public interface User {
     boolean isBLocked();
     
     /**
-     * 
+     *  Method to indicate password is valid or not
      * @return
      */
     boolean validPassword();
