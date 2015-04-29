@@ -74,4 +74,5 @@ public interface User {
      */
     boolean validPassword();
     
+    boolean oneMore();
 }
