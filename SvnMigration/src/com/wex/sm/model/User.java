@@ -68,4 +68,10 @@ public interface User {
      */
     boolean isBLocked();
     
+    /**
+     * 
+     * @return
+     */
+    boolean validPassword();
+    
 }
